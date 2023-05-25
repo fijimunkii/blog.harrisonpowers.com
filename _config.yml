@@ -2,7 +2,7 @@
 title:               Harry's List
 tagline:             'Architect the future'
 description:         'A blog by <a href="https://harrisonpowers.com" target="_blank">Harrison Powers</a>.'
-url:                 http://blog.harrisonpowers.com
+url:                 https://blog.harrisonpowers.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
