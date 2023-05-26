@@ -27,12 +27,8 @@ Riding nearly a hundred miles each day
 Dreaming of routes yet to be explored
 <br>Their minds and hearts fully onboard
 <br><br>
-Moose and Harry, a dynamic duo. Their passion for adventure, a thing to behold
-<br><br>
 Their boards upgraded with chargers so fast
 <br>Quickly recharging, they're ready to last
-<br><br>
-Planning an epic trip from Canada down To New York City, they'll wear their crowns
 <br><br>
 One day they'll ride from coast to coast
 <br>Their love for adventure, never to boast
