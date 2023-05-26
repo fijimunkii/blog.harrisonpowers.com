@@ -6,39 +6,42 @@ categories:
 tags: []
 ---
 
-In the land of Moose and Harry, Two friends rode with hearts so merry
-On their trusty Onewheels, they flew A way of life they loved, so true
-
+In the land of Moose and Harry,
+<br>Two friends rode with hearts so merry
+<br><br>
+On their trusty Onewheels, they flew
+<br>A way of life they loved, so true
+<br><br>
 From sunrise to sunset, they'd roam
-Exploring new paths and finding home
-
+<br>Exploring new paths and finding home
+<br><br>
 Their passion for riding knew no bounds
-Moose with his girlfriend, Harry unbound
-
+<br>Moose with his girlfriend, Harry unbound
+<br><br>
 Together they journeyed through the land
-With extra batteries, they took a stand
-
+<br>With extra batteries, they took a stand
+<br><br>
 Riding nearly a hundred miles each day
-Their Onewheels powering their way
-
+<br>Their Onewheels powering their way
+<br><br>
 Dreaming of routes yet to be explored
-Their minds and hearts fully onboard
-
+<br>Their minds and hearts fully onboard
+<br><br>
 Moose and Harry, a dynamic duo. Their passion for adventure, a thing to behold
-
+<br><br>
 Their boards upgraded with chargers so fast
-Quickly recharging, they're ready to last
-
+<br>Quickly recharging, they're ready to last
+<br><br>
 Planning an epic trip from Canada down To New York City, they'll wear their crowns
-
+<br><br>
 One day they'll ride from coast to coast
-Their love for adventure, never to boast
-
+<br>Their love for adventure, never to boast
+<br><br>
 Moose with his girl, Harry the bachelor
-Their passion for riding, forever a factor
-
+<br>Their passion for riding, forever a factor
+<br><br>
 In the land of Moose and Harry, they roam
-A never-ending journey, they call home
-
+<br>A never-ending journey, they call home
+<br><br>
 Their love for Onewheels, a way of life
-Forever exploring, no end in sight.
+<br>Forever exploring, no end in sight.
