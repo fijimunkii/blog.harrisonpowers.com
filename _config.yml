@@ -1,7 +1,7 @@
 # Setup
 title:               Harry's List
 tagline:             'Architect the future'
-description:         'A blog by <a href="https://harrisonpowers.com" target="_blank">Harrison Powers</a>.'
+description:         'A blog by Harrison Powers'
 url:                 https://blog.harrisonpowers.com
 baseurl:             ''
 paginate:            5
