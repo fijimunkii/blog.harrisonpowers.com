@@ -37,6 +37,21 @@
   </script>
   {% endif %}
 
+  <!-- twitter card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@fijimunkii" />
+  <meta name="twitter:creator" content="@fijimunkii" />
+  <meta name="twitter:label1" content="Written by" />
+  <meta name="twitter:data1" content="Harrison Powers" />
+  <meta name="twitter:label2" content="Reading time" />
+  {% capture words %}
+  {{ content | number_of_words | minus: 180 }}
+  {% endcapture %}
+  {% unless words contains '-' %}
+  <meta name="twitter:data2" content="{{ words | plus: 180 | divided_by: 180 | append: ' minutes' }}" />
+  {% endunless %}
+  <!-- end twitter card -->
+
   <!-- open graph tags -->
   {% if page.title %}
   <meta content="article" property="og:type" />
