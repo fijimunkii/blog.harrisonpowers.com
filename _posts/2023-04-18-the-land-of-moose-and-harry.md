@@ -3,6 +3,8 @@ layout: post
 title: In the land of Moose and Harry
 categories:
 - chatGPT
+- poem
+- onewheel
 tags: []
 ---
 

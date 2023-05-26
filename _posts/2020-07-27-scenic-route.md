@@ -2,7 +2,9 @@
 layout: post
 title: taing the scenic route
 categories:
-- cli
+- thoughts
+- onewheel
+- happiness
 tags: []
 ---
 
