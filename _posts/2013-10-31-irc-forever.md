@@ -6,9 +6,9 @@ categories:
 tags: []
 ---
 
-#What is IRC? A chat protocol.
+# What is IRC? A chat protocol.
 
-####Why would you want to use it?
+#### Why would you want to use it?
 
 + it is free!
 + supports file transfer
@@ -25,7 +25,7 @@ I've spent years fiddling around with IRC, have settled on a wonderful commandli
 **If this command-line stuff feels scary..  I feel bad for you, son.** I got 99 problems, but IRC aint one. You might want to take a look at [Colloquy](http://colloquy.info/), it's self explanatory.
 
 
-#Let's get started
+# Let's get started
 If you don't have homebrew installed, [follow the official instructions](http://brew.sh/)
 
 Open up your terminal and type in ```brew install irssi```
@@ -35,7 +35,7 @@ You can totally use it, as is, but I recommend tweaking the settings a bit.
 
 Load irssi for the first time by typing in ```irssi```. This will create the default configuration files that we will be editing. ```/quit``` to exit.
 
-####Themes make things pretty!
+#### Themes make things pretty!
 
 1. [find a theme you like](http://irssi.org/themes)
 2. copy the .theme link
@@ -43,7 +43,7 @@ Load irssi for the first time by typing in ```irssi```. This will create the def
 4. load up irssi and run ```/set theme theme_name```
 5. ```/save```
 
-####Scripts make life easier!
+#### Scripts make life easier!
 *Lets set up a highlight window*, this will log every time someone mentions your name:
 
 1. in terminal run ```wget -P ~/.irssi/scripts/autorun/ http://static.quadpoint.org/irssi/hilightwin.pl```
@@ -67,7 +67,7 @@ Load irssi for the first time by typing in ```irssi```. This will create the def
 1. I think you know the drill by now
 2. http://scripts.irssi.org/scripts/usercount.pl
 
-#Configuration is unlimited
+# Configuration is unlimited
 *I'll make it easy for the world by sharing my config file.*
 
 Exit out of irssi by typing it ```/quit```
