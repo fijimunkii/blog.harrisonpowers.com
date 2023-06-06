@@ -7,8 +7,6 @@ categories:
 tags: []
 ---
 
-# How to deterministically mount persistent disks in Google Cloud
-
 Adding additional disks to an instance in Google Cloud is straightforward. But, what if you want to mount these disks in a specific order? Or mount a particular additional disk to a specified folder? Using the generic `/dev/nvme..` path relies on the order the disks were attached to the instance.
 
 The solution to this race condition is by specifying a "device name" when attaching disks. Here is an example:
