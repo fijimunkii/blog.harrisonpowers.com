@@ -5,7 +5,7 @@ description:         'A blog by Harrison Powers'
 url:                 https://blog.harrisonpowers.com
 baseurl:             ''
 paginate:            5
-permalink:           pretty
+permalink:           /:year/:month/:day/:title.html
 
 # About/contact
 author:
